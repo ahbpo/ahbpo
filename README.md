@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ahbpo
-- 👀 I’m interested in: generally Python, the C trio, JavaScript and Go
-- 🌱 I’m currently learning: C++
-- 📫 How to reach me: You don't
+im do program
 
 <!---
 Nodonunderscore/Nodonunderscore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
